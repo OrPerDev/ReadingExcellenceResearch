@@ -1,0 +1,25 @@
+Book Cols:
+
+title (irrelevant for ML, nullable)
+original_title (irrelevant for ML, nullable)
+rating
+ratings_count
+reviews_count
+book_format (i.e: hardcover, kindle, etc…)
+pages_count
+main_language
+editions_count
+has_awards
+top_tagged_genre_1
+top_tagged_genre_2
+top_tagged_genre_3
+to_read_count (users selected it for to read)
+currently_reading_count (users selected it for read atm)
+
+author_name -> label_enconding
+author_followers_count
+author_books_count (distinct works)
+author_avg_rating
+author_ratings_count
+author_reviews_count
+
